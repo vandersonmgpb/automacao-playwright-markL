@@ -17,7 +17,7 @@ test('deve poder cadastrar uma nova tarefa', async ({ page, request })=>{
     await page.click('css=button >> text=Create')
  
     // Então essa tarefa deve ser exibida na lista
-    
+
 
 
 
